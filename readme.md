@@ -26,7 +26,7 @@ Canal water in many urban and rural regions is contaminated, making it unsafe fo
 
 ##  Photos & Diagrams
 
-- ![alt text](koppen.png)  
+- ![alt text](<koppen.png>)  
 - ![alt text](kop.jpg)
 - ![alt text](kopp.jpg)
 
