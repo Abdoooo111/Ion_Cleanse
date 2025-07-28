@@ -1,11 +1,11 @@
 ---
-title: "Smart Air Filtration Tower"
+title: "Ion Cleanse"
 author: "Khamees Mohamed Shaker Ibrahim"
 description: "A project focused on designing a 3D-modeled air filtration tower, supported by research, simulation, and technical documentation."
 created_at: "12/6/2025"
 ---
 
-# Project Journal: Smart Air Filtration Tower
+# Project Journal: Ion Cleanse
 
 ## Objective
 To develop a **3D-modeled smart air filtration tower** through a combination of **computer-aided design**, **material analysis**, **airflow simulation**, and thorough **documentation**. The project emphasizes technical depth and sustainability.
