@@ -1,0 +1,15 @@
+Component,Quantity,Price (USD),Source
+PVC Pipes,4,$18,Local hardware store
+Mesh Filter (cotton fiber),1,$6,Fabric/filter supplier
+Activated Carbon (coal),1,$12,Aquarium/chemical supply
+Ion Exchange Resin,1,$10,Resintech/fish tank supplier
+Water Pump (12V),3,$49.5,https://www.amazon.eg/Ultra-Fountain-Height-Submersible-Aquarium/dp/B0DTFKNHMS
+Arduino Due,1,$61,https://store.arduino.cc/products/arduino-due
+Jumper Wires & Breadboard,1,$13,Electronics store
+Electrodes,2,$16,Local lab supply
+Sulfuric Acid (H₂SO₄),1,$14,sigmaaldrich.com
+Hydrochloric Acid (HCl),1,$18,sigmaaldrich.com
+Sodium Hydroxide (NaOH),1,$13,chemicalsupplier.com
+TDS + pH + Turbidity Sensors,3,$70,https://www.dfrobot.com
+Miscellaneous (wires, tubing, connectors),1,$16,Local hardware/electronics
+Total,,316.5,
