@@ -129,10 +129,11 @@ To develop a **3D-modeled smart air filtration tower** through a combination of 
 ---
 
 ## Images
-- ![alt text](koppen.png)  
-- ![alt text](kop.jpg)
-- ![alt text](kopp.jpg)
-- ![Expected Results](image.png)
-- ![Fabric Properties Measured and Identified](image-1.png)
-- ![Efficiency of killing bactria](image-2.png)
-- ![Ion exchange resin](image-3.png)
+- ![alt text](asset/koppen.png)  
+- ![alt text](asset/kop.jpg)
+- ![alt text](asset/kopp.jpg)
+- ![Expected Results](asset/image.png)
+- ![Fabric Properties Measured and Identified](asset/image-1.png)
+- ![Efficiency of killing bactria](asset/image-2.png)
+- ![Ion exchange resin](asset/image-3.png)
+
