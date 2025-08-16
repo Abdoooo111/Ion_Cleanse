@@ -6,11 +6,6 @@ created_at: "12/6/2025"
 ---
 
 # Project Journal: Ion Cleanse
-
-## Objective
-To develop a **3D-modeled smart air filtration tower** through a combination of **computer-aided design**, **material analysis**, **airflow simulation**, and thorough **documentation**.  
-This was not for any assignment or competition — just something I wanted to work on for myself, both as a technical exploration and as a kind of personal challenge. Along the way, I treated this journal more like a diary, jotting down not just technical progress but also thoughts, doubts, and small daily reflections.  
-
 ---
 
 ## Info About My Journey
@@ -24,78 +19,155 @@ This was not for any assignment or competition — just something I wanted to wo
 ## Daily Log
 
 ### Day 1 (12/6/2025) – 4 hours  
-I kicked things off by brainstorming the **core functionality** of an outdoor smart filtration tower. I wanted it to feel practical — not futuristic or overly ambitious, but something that could realistically sit in a city street or a schoolyard.  
-I sketched out some **basic concepts** in my notebook before moving to 3D modeling. At this stage, the design was just a tall, simple cylindrical body.  
+I started the journey today. I sat down with some tea and a notebook and began by brainstorming the **core functionality** of an outdoor air filtration tower. I didn’t want it to be some flashy futuristic design, just something believable, practical, and urban. Something I could actually imagine standing in the middle of a Cairo street.  
+I drew some quick sketches, mostly cylinders and rectangular bodies with vents, but one of them caught my eye. I then moved to building the **basic 3D structure**, giving the project its first physical form on screen. It was nothing more than a simple cylinder with a hollow body, but seeing it stand there felt like a spark.  
 
-*(I remember drinking tea while doing this and thinking: this project might actually keep me busy for a few weeks in a good way.)*  
+*(In between, I caught myself staring out the window for too long, imagining how polluted air actually looks and feels. It was oddly motivating.)*  
 
 ---
 
 ### Day 2 (13/6/2025) – 4 hours  
-Today was mostly refinement. I reshaped the cylindrical geometry and made the proportions more realistic. I spent a chunk of time **reading up on urban air filtration methods**, particularly comparing HEPA vs. activated carbon systems. I realized early on that the design had to lean toward **carbon-based filters**, given how common gaseous pollutants are in Egypt.  
-I also logged rough **dimensions** into my documentation.  
+I refined yesterday’s rough shape. The proportions were slightly awkward, so I reshaped the **cylindrical body** to be more realistic and stable. Most of my time went into **researching different air purification methods**, mainly comparing HEPA filters with activated carbon systems. I realized quickly that carbon filtration would make more sense for local conditions, since Cairo struggles with gases, smoke, and car exhaust as much as with dust.  
+By the end of the session, I had logged down basic **dimensions** and even considered the volume of air the system should realistically handle.  
+
+*(I also found myself overthinking: if this were real, how many people would actually notice such a tower on the street? Would they care? Would they even know what it’s doing? Funny how design makes you think about people, not just parts.)*  
 
 ![full 3d model](asset/kop.jpg)  
 
 ---
 
 ### Day 3 (14/6/2025) – 5 hours  
-Added **vent slats** and hollow chambers into the structure. This was more tedious than exciting, but it made the design look more functional.  
-On the research side, I compared **pressure drop rates** for filters depending on whether the airflow was vertical or horizontal. That helped me understand how much energy the fans would eventually consume.  
-Also began drafting a **Bill of Materials (BOM)**. Not final, but it gave me a clearer idea of what parts I’d theoretically need.  
+Today I got into the details. I worked on **adding vent slats and hollow chambers** inside the tower. It was tricky to balance form and function, too many vents looked messy, too few and airflow became restricted.  
+Meanwhile, I dived deeper into **pressure drop calculations**, trying to understand how the placement of filters and air channels affects resistance. I realized how much the angle of air channels matters. I also began drafting a **Bill of Materials (BOM)**. Even though I wasn’t building it physically, listing things like carbon granules, meshes, and casing material made the project feel more “real.”  
 
 ![the 3d model and pointing where water will go out](asset/kopp.jpg)  
 
 ---
 
-### Day 5 (16/6/2025) – 5 hours  
-Focused on **particle behavior simulations**. Watching fine particles interact with the filters gave me ideas about how pollutants like dust and smoke would behave.  
-Meanwhile, I researched **sustainable filtering materials**, particularly coconut-shell carbon and aluminum mesh. I liked the idea of the system being both high-performing and eco-friendly.  
+### Day 4 (15/6/2025) – 4 hours  
+The highlight of today was running my **first airflow simulations**. Even though they were rough and based on passive air draw, I couldn’t help but smile seeing the virtual “air” flow through the design. The currents showed clear resistance at the vents, so I made small adjustments to geometry, hoping to reduce blockage.  
+I ended the day with the feeling that, while early, the design was beginning to breathe in its own way.  
 
-*(At some point I got distracted looking at coconut plantations online. The internet really knows how to drag you into side rabbit holes.)*  
+*(I caught myself thinking how satisfying it would be if someday an actual device did what I was watching in these simulations. That little thought made me stay longer than I planned.)*  
+
+---
+
+### Day 5 (16/6/2025) – 5 hours  
+I went deeper into **particle simulations** today. Watching fine particles move through the filters gave me an idea of how dust and smoke would behave. It wasn’t perfect, but it gave me confidence I was moving in the right direction.  
+I also researched **sustainable filtering materials**. Coconut-shell carbon really caught my interest, it’s natural, cheap, and effective. I paired that with aluminum mesh in my notes, since the two complement each other.  
+
+*(Halfway through, I fell into a rabbit hole of looking at pictures of coconut plantations and ended up daydreaming about traveling somewhere greener. But then I snapped back and logged my simulation results properly.)*  
 
 ![Expected Results](asset/image.png)  
 
 ---
 
 ### Day 6 (17/6/2025) – 4 hours  
-Started comparing **cost and suppliers** for materials. Not that I was buying anything, but it felt important to see what would be feasible in reality. I also integrated the concept of **sensors at the air inlet**, to detect pollution levels before and after filtration.  
-Ended the day by writing a short piece about what kinds of filters would be most effective for **Cairo’s specific air quality**.  
+Most of today was about **cost and supplier comparison**. Even if this wasn’t going to be built, I liked grounding the project in reality. I checked rough prices for carbon filters, mesh, and possible casing materials.  
+Then, I integrated the idea of **sensors at the air inlets**, which could measure pollution before and after filtration. It suddenly made the project feel smarter and more data-driven.  
+Finally, I wrote a note about what kinds of filters would actually help with **Cairo’s urban air quality**, where car exhaust and dust storms are both common.  
 
 ![Fabric Properties Measured and Identified](asset/image-1.png)  
 
 ---
 
-### Day 11 (22/6/2025) – 5 hours  
-Built the **base platform** in the model, including space for **cable routing**. It gave the tower a more grounded and realistic feel.  
-Finalized **chamber segmentation**, splitting sections into modular parts.  
+### Day 7 (18/6/2025) – 4 hours  
+I spent time reading about **sensor placement strategies**, and decided to position them at both the intake and the outlet. That way, the tower wouldn’t just clean the air but also **prove that it worked**.  
+On the modeling side, I added **airflow-guiding vanes** to increase efficiency. They were small design details, but I remember being really happy when they fit just right.  
 
-*(I remember thinking: this is starting to look like something I could actually imagine installed in a city square. That was a nice feeling.)*  
+*(It’s funny — some days the project feels like science, other days it feels like art. Today was one of those art days.)*  
+
+---
+
+### Day 8 (19/6/2025) – 5 hours  
+Calculated airflow in **m³/min across chambers**. It took me longer than expected because I had to double-check formulas and adjust for conditions. But once I got it, it felt like progress.  
+I also made a point of documenting my **methodology** properly, step by step, so I wouldn’t lose track later. By the end, I made an **early rendering** of the design. Seeing it in a slightly more polished form was motivating.  
+
+---
+
+### Day 9 (20/6/2025) – 4 hours  
+Today I re-ran airflow simulations, but this time I adjusted for **temperature and pressure** close to summer conditions in Egypt. The results weren’t dramatically different, but they felt more honest.  
+I also read an **academic paper on filtration efficiency**. It was very technical, and I didn’t understand every formula, but I took notes on the main findings.  
+
+---
+
+### Day 10 (21/6/2025) – 4 hours  
+Focused on optimizing the **air outlet shape**. A small tweak reduced resistance more than I expected.  
+I also compared casing materials: **PVC, aluminum, and recycled plastic**. Aluminum looked the strongest, but recycled plastic kept drawing me in because of its environmental aspect.  
+
+---
+
+### Day 11 (22/6/2025) – 5 hours  
+Modeled the **base platform** and thought about **cable routing**. It grounded the tower design and made it feel less like a floating piece of concept art.  
+I also finalized **chamber segmentation**, splitting the structure into logical units.  
+
+*(When I looked at the full design tonight, I caught myself thinking: this could actually be built one day. That was the first time the thought felt real.)*  
 
 ![Efficiency of killing bactria](asset/image-2.png)  
 
 ---
 
+### Day 12 (23/6/2025) – 4 hours  
+Added a **digital display box** to the design. I imagined people walking by and seeing pollution numbers drop in real time.  
+I placed **temperature sensors** logically across the structure and then exported proper technical drawings.  
+
+---
+
+### Day 13 (24/6/2025) – 4 hours  
+Simulated a **variable-speed fan integration**. It gave flexibility for low vs. high pollution conditions.  
+Researched **noise reduction techniques** so it wouldn’t become an annoyance in residential areas.  
+
+---
+
 ### Day 14 (25/6/2025) – 5 hours  
-This was mostly about **cost-to-efficiency analysis**. I tried to balance filtration performance with practical affordability.  
-I also improved the **mesh resolution** in my airflow simulations. It slowed down the computer, but gave clearer results.  
+Did a **cost-to-efficiency analysis** to balance affordability and performance. It made me think practically about what would be worth spending on if this were real.  
+Also, I improved my **airflow simulation mesh resolution**. My computer groaned under the load, but the results were much more detailed.  
 
 ![Ion exchange resin](asset/image-3.png)  
 
 ---
 
+### Day 15 (26/6/2025) – 4 hours  
+Finalized polished **3D renderings with textures**. It was satisfying to see it look like a real product instead of just a rough sketch.  
+I also compiled all **simulation results** into one place and even designed a simple **branding plate** and logo.  
+
+---
+
+### Day 16 (27/6/2025) – 4 hours  
+Wrote up detailed **use-case scenarios**: schools, factory zones, and busy urban streets. I wanted the documentation to feel grounded in reality.  
+Also drafted the methodology section of the report.  
+
+---
+
+### Day 17 (28/6/2025) – 5 hours  
+Modeled a **transportable modular variant**, imagining smaller versions that could be deployed temporarily.  
+I then played with the idea of **solar-powered fans** and ran some calculations for **battery storage requirements**.  
+
+---
+
 ### Day 18 (29/6/2025) – 4 hours  
-Spent most of the day cleaning up the **geometry** and refining small edges. It was almost meditative.  
-I finalized the design file and even drafted some **pseudo-code for sensor control**, just to imagine how the logic might work in real life.  
+Most of the day went into **refining the geometry**. I cleaned up edges, added subtle details, and finalized the model. It felt strangely meditative, like tidying up a room.  
+I even drafted some **pseudo-code for sensor control**, just to imagine how the logic might work.  
 
 ![simulated 3d model on day 18](asset/koppen.png)  
 
 ---
 
-### Day 21 (2/7/2025) – 4 hours  
-Packaged everything into a **final repository**: the models, the simulation results, and the written documentation.  
-Archived everything neatly. A satisfying end.  
+### Day 19 (30/6/2025) – 4 hours  
+I asked someone i know for some modifications. They gave me honest feedback, one said it looked “futuristic but still believable,” which was exactly what I was aiming for.  
+I incorporated their suggestions, cleaned up the documentation, and re-exported the files.  
 
-*(Honestly, I felt relieved. This project became a bigger part of my days than I expected, but it was worth it.)*  
+---
+
+### Day 20 (1/7/2025) – 4 hours  
+Spent most of today editing and proofreading the **documentation**. It felt like editing a book: cutting repetitions, fixing flow, and making sure citations were consistent.  
+
+---
+
+### Day 21 (2/7/2025) – 4 hours  
+The final day. I packaged everything neatly into a **repository**, the models, the simulations, and the journal.  
+Archived the files and backed them up.  
+
+*(I leaned back in my chair at the end and realized how much of myself I had poured into this over the past three weeks. It wasn’t just about a filtration tower anymore. It was about proving to myself that I could stick with something, start to finish, and give it life — even if only on screen.)*  
 
 ---
