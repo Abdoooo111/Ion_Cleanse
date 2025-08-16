@@ -27,8 +27,8 @@ I drew some quick sketches, mostly cylinders and rectangular bodies with vents, 
 ---
 
 ### Day 2 (13/6/2025) – 4 hours  
-I refined yesterday’s rough shape. The proportions were slightly awkward, so I reshaped the **cylindrical body** to be more realistic and stable. Most of my time went into **researching different air purification methods**, mainly comparing HEPA filters with activated carbon systems. I realized quickly that carbon filtration would make more sense for local conditions, since Cairo struggles with gases, smoke, and car exhaust as much as with dust.  
-By the end of the session, I had logged down basic **dimensions** and even considered the volume of air the system should realistically handle.  
+I sharpened up yesterday rough shape. The proportions were a little stiff, and I modeled the cylinder like body more realistic and strong. I spent most of my time researching various air purification treatments especially by comparing the HEPA filters with the active carbon systems. The very first day, I knew that the carbon filtering would be more appropriate with respect to the situation on the ground as Cairo is battling with gases and smoke and car exhaust as much as it is with dust.
+Basic parameters were recorded, including dimension, and even the volume of air that the system can reasonably cater to, by the completion of the session.
 
 *(I also found myself overthinking: if this were real, how many people would actually notice such a tower on the street? Would they care? Would they even know what it’s doing? Funny how design makes you think about people, not just parts.)*  
 
@@ -37,8 +37,8 @@ By the end of the session, I had logged down basic **dimensions** and even consi
 ---
 
 ### Day 3 (14/6/2025) – 5 hours  
-Today I got into the details. I worked on **adding vent slats and hollow chambers** inside the tower. It was tricky to balance form and function, too many vents looked messy, too few and airflow became restricted.  
-Meanwhile, I dived deeper into **pressure drop calculations**, trying to understand how the placement of filters and air channels affects resistance. I realized how much the angle of air channels matters. I also began drafting a **Bill of Materials (BOM)**. Even though I wasn’t building it physically, listing things like carbon granules, meshes, and casing material made the project feel more “real.”  
+To-day I got down to the details. I worked out the suggestion of vent slats and hollow chambers within the tower. There was a difficult tie-up between form and function, too many vents were ugly, and too few would have constricted the airflow.
+In the meantime, I researched a lot more about pressure drop computations, attempting to discover the effect that filter and air channel placement positioning has on resistance. I learned the significance of the angle of the air channels. I also started on a Bill of Materials (BOM). Although physically, I was not creating it, actually listing such items as carbon granules, meshes, and casing material made the project more real.
 
 ![the 3d model and pointing where water will go out](asset/kopp.jpg)  
 
@@ -80,14 +80,14 @@ On the modeling side, I added **airflow-guiding vanes** to increase efficiency. 
 ---
 
 ### Day 8 (19/6/2025) – 5 hours  
-Calculated airflow in **m³/min across chambers**. It took me longer than expected because I had to double-check formulas and adjust for conditions. But once I got it, it felt like progress.  
-I also made a point of documenting my **methodology** properly, step by step, so I wouldn’t lose track later. By the end, I made an **early rendering** of the design. Seeing it in a slightly more polished form was motivating.  
+The air flow in m 3/ min calculated through chambers. It took me longer than my expectation because I had to re-check my work behind formulae and correct out the conditions. However, when I managed to get it, I got the feeling of progress.
+I also ensured that I properly documented my **methodology** step by step and I would not lose track afterward. In the long run, I generated an initial sketch of the design. It was energizing to see it in a slightly more refined form.
 
 ---
 
 ### Day 9 (20/6/2025) – 4 hours  
-Today I re-ran airflow simulations, but this time I adjusted for **temperature and pressure** close to summer conditions in Egypt. The results weren’t dramatically different, but they felt more honest.  
-I also read an **academic paper on filtration efficiency**. It was very technical, and I didn’t understand every formula, but I took notes on the main findings.  
+I re-did airflow simulations today but this time I took in to consideration temperature and pressure near summer temperatures in Egypt. The outcomes did not turn out dramatically much different, though they came out truer.
+I have also gone through a scholarly article discussing the efficiency of filtration. It really was quite technical and I did not get all of the formulas, though I did write down some of the key results.
 
 ---
 
@@ -171,3 +171,4 @@ Archived the files and backed them up.
 *(I leaned back in my chair at the end and realized how much of myself I had poured into this over the past three weeks. It wasn’t just about a filtration tower anymore. It was about proving to myself that I could stick with something, start to finish, and give it life — even if only on screen.)*  
 
 ---
+
