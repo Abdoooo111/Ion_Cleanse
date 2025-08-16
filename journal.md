@@ -127,40 +127,35 @@ Also, I improved my **airflow simulation mesh resolution**. My computer groaned 
 
 ---
 
-### Day 15 (26/6/2025) – 4 hours  
-Finalized polished **3D renderings with textures**. It was satisfying to see it look like a real product instead of just a rough sketch.  
-I also compiled all **simulation results** into one place and even designed a simple **branding plate** and logo.  
+### Day 15 (26/6/2025) 4 hours
+Textured polished 3D finishes. I found it rewarding to make it look as a real product rather than coarse drawing.
+I also gathered all simulations in a single area and even did some basic branding plate and logo.
 
 ---
-
-### Day 16 (27/6/2025) – 4 hours  
-Wrote up detailed **use-case scenarios**: schools, factory zones, and busy urban streets. I wanted the documentation to feel grounded in reality.  
-Also drafted the methodology section of the report.  
-
----
-
-### Day 17 (28/6/2025) – 5 hours  
-Modeled a **transportable modular variant**, imagining smaller versions that could be deployed temporarily.  
-I then played with the idea of **solar-powered fans** and ran some calculations for **battery storage requirements**.  
+### Day 16 (27/6/2025) 4 hours
+Has drawn up detailed use-case scenarios: schools, factory zones, and busy urban streets. I desired that the documentation have a realistic touch.
+Methodology section of the report was also drafted.
 
 ---
+### Day 17 (28/6/2025) 5 hours
+They also designed a transportable modular shape guided by the thought that smaller modular versions might be deployed on temporary bases.
+Then followed the thought play of solar fans and some calculations of battery capacity storage needs.
 
-### Day 18 (29/6/2025) – 4 hours  
-Most of the day went into **refining the geometry**. I cleaned up edges, added subtle details, and finalized the model. It felt strangely meditative, like tidying up a room.  
-I even drafted some **pseudo-code for sensor control**, just to imagine how the logic might work.  
+---
+### Day 18 (29/6/2025) Time 4 hours
+The major part of the day was spent on improving geometry. I removed edge noise, added some minor details and finished the model. It was bizarrely restful in a way that straightening up a room is restful.
+I really even wrote some pseudo-code to control sensors, just to get a speculation about how the logic could work.
 
 ![simulated 3d model on day 18](asset/koppen.png)  
 
 ---
 
-### Day 19 (30/6/2025) – 4 hours  
-I asked someone i know for some modifications. They gave me honest feedback, one said it looked “futuristic but still believable,” which was exactly what I was aiming for.  
-I incorporated their suggestions, cleaned up the documentation, and re-exported the files.  
+### Day 19 (30/6/2025) 4 hours
+I requested some alterations to a person i know. They provided me with sincere input with my work and one said, it was a futuristic yet credible design, which was the story I was trying to tell.
+I ran their hints, cleaned the documentation and re-exported the files.
 
----
-
-### Day 20 (1/7/2025) – 4 hours  
-Spent most of today editing and proofreading the **documentation**. It felt like editing a book: cutting repetitions, fixing flow, and making sure citations were consistent.  
+### Day 20 (1/7/2025) 4hrs
+Sat and edited and proofread documentation most of the day. It was like it was a book that I was editing taking out reductancies, making the flow right and checking citations were standard.
 
 ---
 
@@ -171,4 +166,5 @@ Archived the files and backed them up.
 *(I leaned back in my chair at the end and realized how much of myself I had poured into this over the past three weeks. It wasn’t just about a filtration tower anymore. It was about proving to myself that I could stick with something, start to finish, and give it life — even if only on screen.)*  
 
 ---
+
 
