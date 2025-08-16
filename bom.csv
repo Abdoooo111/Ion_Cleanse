@@ -1,16 +1,17 @@
 Component,Quantity,Price (USD),Source
-PVC Pipes,4,$18,Local hardware store
-Mesh Filter (cotton fiber),1,$6,Fabric/filter supplier
-Activated Carbon (coal),1,$12,Aquarium/chemical supply
-Ion Exchange Resin,1,$10,Resintech/fish tank supplier
-Water Pump (12V),3,$49.5,https://www.amazon.eg/Ultra-Fountain-Height-Submersible-Aquarium/dp/B0DTFKNHMS
+PVC Pipes,6m,$26,https://www.amazon.eg/-/en/Meksular-12mm-ID-15mm-OD/dp/B0BCJZT74X/
+Mesh Filter (cotton fiber),1,$21,Fabric/https://www.amazon.eg/-/en/Filter-Capsule-Refrigerator-Screen-Blue2pc/dp/B0F5BVZLRL/
+Activated Carbon (coal),2,$25,https://www.amazon.com/Activated-Charcoal-Gummies-Supplements-Coconut/dp/B0BTVS1PW4?th=1
+Ion Exchange Resin,700 piece,$21,https://www.alibaba.com/product-detail/Lowest-Price-EXTREPURE-strong-acid-cation_1600292886243.html?
+Water Pump (12V),2,$34.6,https://www.amazon.eg/Ultra-Fountain-Height-Submersible-Aquarium/dp/B0DTFKNHMS
 Arduino Due,1,$61,https://store.arduino.cc/products/arduino-due
-Jumper Wires & Breadboard,1,$13,Electronics store
-Electrodes,2,$16,Local lab supply
-Sulfuric Acid (H₂SO₄),1,$14,sigmaaldrich.com
-Hydrochloric Acid (HCl),1,$18,sigmaaldrich.com
-Sodium Hydroxide (NaOH),1,$13,chemicalsupplier.com
-TDS + pH + Turbidity Sensors,3,$70,https://www.dfrobot.com
-Miscellaneous (wires/ tubing/ connectors),1,$16,Local hardware/electronics
-Total,,316.5,
+Breadboard kit for also the jumpers,1,31.07,https://ar.aliexpress.com/item/1005009232305446.html?
+Electrodes,,$27,https://ar.aliexpress.com/item/1005004637566449.html?
+Sulfuric Acid (H₂SO₄),1,$25,https://www.alibaba.com/product-detail/Sulphamic-Acid-Sulfamic-Acid-5329-14_1600587438591.html?
+Hydrochloric Acid (HCl),1,$2.7,https://www.alibaba.com/product-detail/Acid-Corrosion-Inhibitor-Oilfield-for-Hydrochloric_1600950548123.html?
+Sodium Hydroxide (NaOH),1,$4.2,https://www.alibaba.com/product-detail/New-Technology-Low-sodium-Aluminum-Hydroxide_1601008916711.html?
+TDS + pH + Turbidity Sensors,3,$64.4,https://www.amazon.eg/-/en/Detection-Module-Filter-Measuring-Quality/dp/B0FK5Y9R8Q/ https://www.amazon.eg/-/en/Generic-YY6237-Analog-Sensor-Kit/dp/B0FD4YSQQ7/   https://ar.aliexpress.com/item/32995232611.html?
+Total,,342.97,
+Expected to be paid,,310,
+
 
