@@ -26,9 +26,9 @@ Canal water in many urban and rural regions is contaminated, making it unsafe fo
 
 ##  Photos & Diagrams
 
-- ![alt text](<koppen.png>)  
-- ![alt text](kop.jpg)
-- ![alt text](kopp.jpg)
+- ![alt text](asset/koppen.png)  
+- ![alt text](asset/kop.jpg)
+- ![alt text](asset/kopp.jpg)
 
 ---
 
@@ -50,3 +50,4 @@ Canal water in many urban and rural regions is contaminated, making it unsafe fo
 | Misc. wires, connectors, tubing         | Assembly                             | $16        | General store |
 
 **Total Cost: $316.5**
+
